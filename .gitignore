@@ -24,3 +24,13 @@ x86
 *.pdb
 
 Release_*
+
+
+# Build - Game (remove manually for zip)
+platform
+cfg
+steam_appid.txt
+GameState.txt
+*.cache
+stats.txt
+voice_ban.dt
