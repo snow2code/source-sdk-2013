@@ -4,6 +4,11 @@
 game/snowtf/materials/vgui
 game_src
 
+
+
+
+
+
 # Visual Studio 
 *.suo
 *.user
